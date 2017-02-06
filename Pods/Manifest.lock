@@ -1,0 +1,29 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - Flurry-iOS-SDK/FlurrySDK (7.9.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - Flurry-iOS-SDK/FlurrySDK
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  Flurry-iOS-SDK: 300dc1d78443dea3d433a38e76292f20f14f0a96
+
+PODFILE CHECKSUM: 915af495dd165e03ddba55a4b966b7c20cc1480d
+
+COCOAPODS: 1.1.1
